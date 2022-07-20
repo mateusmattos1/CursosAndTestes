@@ -1,0 +1,15 @@
+C:\Users\leona\OneDrive\Área de Trabalho\Atividade\AtividadesFaculdade\CursosComplementares\Balta\CSharp\BaltaFundamentoObjeto\BaltaFundamentoObjeto\bin\Debug\net6.0\BaltaFundamentoObjeto.exe
+C:\Users\leona\OneDrive\Área de Trabalho\Atividade\AtividadesFaculdade\CursosComplementares\Balta\CSharp\BaltaFundamentoObjeto\BaltaFundamentoObjeto\bin\Debug\net6.0\BaltaFundamentoObjeto.deps.json
+C:\Users\leona\OneDrive\Área de Trabalho\Atividade\AtividadesFaculdade\CursosComplementares\Balta\CSharp\BaltaFundamentoObjeto\BaltaFundamentoObjeto\bin\Debug\net6.0\BaltaFundamentoObjeto.runtimeconfig.json
+C:\Users\leona\OneDrive\Área de Trabalho\Atividade\AtividadesFaculdade\CursosComplementares\Balta\CSharp\BaltaFundamentoObjeto\BaltaFundamentoObjeto\bin\Debug\net6.0\BaltaFundamentoObjeto.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Atividade\AtividadesFaculdade\CursosComplementares\Balta\CSharp\BaltaFundamentoObjeto\BaltaFundamentoObjeto\bin\Debug\net6.0\BaltaFundamentoObjeto.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Atividade\AtividadesFaculdade\CursosComplementares\Balta\CSharp\BaltaFundamentoObjeto\BaltaFundamentoObjeto\obj\Debug\net6.0\BaltaFundamentoObjeto.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Atividade\AtividadesFaculdade\CursosComplementares\Balta\CSharp\BaltaFundamentoObjeto\BaltaFundamentoObjeto\obj\Debug\net6.0\BaltaFundamentoObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Área de Trabalho\Atividade\AtividadesFaculdade\CursosComplementares\Balta\CSharp\BaltaFundamentoObjeto\BaltaFundamentoObjeto\obj\Debug\net6.0\BaltaFundamentoObjeto.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Atividade\AtividadesFaculdade\CursosComplementares\Balta\CSharp\BaltaFundamentoObjeto\BaltaFundamentoObjeto\obj\Debug\net6.0\BaltaFundamentoObjeto.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Área de Trabalho\Atividade\AtividadesFaculdade\CursosComplementares\Balta\CSharp\BaltaFundamentoObjeto\BaltaFundamentoObjeto\obj\Debug\net6.0\BaltaFundamentoObjeto.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Atividade\AtividadesFaculdade\CursosComplementares\Balta\CSharp\BaltaFundamentoObjeto\BaltaFundamentoObjeto\obj\Debug\net6.0\BaltaFundamentoObjeto.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Atividade\AtividadesFaculdade\CursosComplementares\Balta\CSharp\BaltaFundamentoObjeto\BaltaFundamentoObjeto\obj\Debug\net6.0\refint\BaltaFundamentoObjeto.dll
+C:\Users\leona\OneDrive\Área de Trabalho\Atividade\AtividadesFaculdade\CursosComplementares\Balta\CSharp\BaltaFundamentoObjeto\BaltaFundamentoObjeto\obj\Debug\net6.0\BaltaFundamentoObjeto.pdb
+C:\Users\leona\OneDrive\Área de Trabalho\Atividade\AtividadesFaculdade\CursosComplementares\Balta\CSharp\BaltaFundamentoObjeto\BaltaFundamentoObjeto\obj\Debug\net6.0\BaltaFundamentoObjeto.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Área de Trabalho\Atividade\AtividadesFaculdade\CursosComplementares\Balta\CSharp\BaltaFundamentoObjeto\BaltaFundamentoObjeto\obj\Debug\net6.0\ref\BaltaFundamentoObjeto.dll
