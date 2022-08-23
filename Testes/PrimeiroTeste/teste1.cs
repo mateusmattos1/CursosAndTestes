@@ -1,3 +1,10 @@
+/* 
+Ter como base um txt com N emails e gerar X arquivos contendo 5e-mails cada arquivo novo, com nome 01.txt,02.txt... 
+de acordo com o número de e-mails no arquivo original.
+Dentro dos novos arquivos gerados, não pode haver e-mails repetidos. 
+*/
+
+
 using System;
 using System.Web;
 using System.IO;
