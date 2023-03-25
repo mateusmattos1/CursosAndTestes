@@ -1,0 +1,15 @@
+C:\Users\teteu\source\repos\InverteCaracterString5\bin\Debug\net6.0\InverteCaracterString5.exe
+C:\Users\teteu\source\repos\InverteCaracterString5\bin\Debug\net6.0\InverteCaracterString5.deps.json
+C:\Users\teteu\source\repos\InverteCaracterString5\bin\Debug\net6.0\InverteCaracterString5.runtimeconfig.json
+C:\Users\teteu\source\repos\InverteCaracterString5\bin\Debug\net6.0\InverteCaracterString5.dll
+C:\Users\teteu\source\repos\InverteCaracterString5\bin\Debug\net6.0\InverteCaracterString5.pdb
+C:\Users\teteu\source\repos\InverteCaracterString5\obj\Debug\net6.0\InverteCaracterString5.csproj.AssemblyReference.cache
+C:\Users\teteu\source\repos\InverteCaracterString5\obj\Debug\net6.0\InverteCaracterString5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teteu\source\repos\InverteCaracterString5\obj\Debug\net6.0\InverteCaracterString5.AssemblyInfoInputs.cache
+C:\Users\teteu\source\repos\InverteCaracterString5\obj\Debug\net6.0\InverteCaracterString5.AssemblyInfo.cs
+C:\Users\teteu\source\repos\InverteCaracterString5\obj\Debug\net6.0\InverteCaracterString5.csproj.CoreCompileInputs.cache
+C:\Users\teteu\source\repos\InverteCaracterString5\obj\Debug\net6.0\InverteCaracterString5.dll
+C:\Users\teteu\source\repos\InverteCaracterString5\obj\Debug\net6.0\refint\InverteCaracterString5.dll
+C:\Users\teteu\source\repos\InverteCaracterString5\obj\Debug\net6.0\InverteCaracterString5.pdb
+C:\Users\teteu\source\repos\InverteCaracterString5\obj\Debug\net6.0\InverteCaracterString5.genruntimeconfig.cache
+C:\Users\teteu\source\repos\InverteCaracterString5\obj\Debug\net6.0\ref\InverteCaracterString5.dll

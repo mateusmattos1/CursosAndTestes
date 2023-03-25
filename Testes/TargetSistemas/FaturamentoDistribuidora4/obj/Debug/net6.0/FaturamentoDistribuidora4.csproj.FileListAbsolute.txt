@@ -1,0 +1,15 @@
+C:\Users\teteu\source\repos\FaturamentoDistribuidora4\bin\Debug\net6.0\FaturamentoDistribuidora4.exe
+C:\Users\teteu\source\repos\FaturamentoDistribuidora4\bin\Debug\net6.0\FaturamentoDistribuidora4.deps.json
+C:\Users\teteu\source\repos\FaturamentoDistribuidora4\bin\Debug\net6.0\FaturamentoDistribuidora4.runtimeconfig.json
+C:\Users\teteu\source\repos\FaturamentoDistribuidora4\bin\Debug\net6.0\FaturamentoDistribuidora4.dll
+C:\Users\teteu\source\repos\FaturamentoDistribuidora4\bin\Debug\net6.0\FaturamentoDistribuidora4.pdb
+C:\Users\teteu\source\repos\FaturamentoDistribuidora4\obj\Debug\net6.0\FaturamentoDistribuidora4.csproj.AssemblyReference.cache
+C:\Users\teteu\source\repos\FaturamentoDistribuidora4\obj\Debug\net6.0\FaturamentoDistribuidora4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teteu\source\repos\FaturamentoDistribuidora4\obj\Debug\net6.0\FaturamentoDistribuidora4.AssemblyInfoInputs.cache
+C:\Users\teteu\source\repos\FaturamentoDistribuidora4\obj\Debug\net6.0\FaturamentoDistribuidora4.AssemblyInfo.cs
+C:\Users\teteu\source\repos\FaturamentoDistribuidora4\obj\Debug\net6.0\FaturamentoDistribuidora4.csproj.CoreCompileInputs.cache
+C:\Users\teteu\source\repos\FaturamentoDistribuidora4\obj\Debug\net6.0\FaturamentoDistribuidora4.dll
+C:\Users\teteu\source\repos\FaturamentoDistribuidora4\obj\Debug\net6.0\refint\FaturamentoDistribuidora4.dll
+C:\Users\teteu\source\repos\FaturamentoDistribuidora4\obj\Debug\net6.0\FaturamentoDistribuidora4.pdb
+C:\Users\teteu\source\repos\FaturamentoDistribuidora4\obj\Debug\net6.0\FaturamentoDistribuidora4.genruntimeconfig.cache
+C:\Users\teteu\source\repos\FaturamentoDistribuidora4\obj\Debug\net6.0\ref\FaturamentoDistribuidora4.dll

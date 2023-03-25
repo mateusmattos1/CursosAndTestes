@@ -1,0 +1,17 @@
+C:\Users\teteu\source\repos\CalculoDistribuidora3\bin\Debug\net6.0\CalculoDistribuidora3.exe
+C:\Users\teteu\source\repos\CalculoDistribuidora3\bin\Debug\net6.0\CalculoDistribuidora3.deps.json
+C:\Users\teteu\source\repos\CalculoDistribuidora3\bin\Debug\net6.0\CalculoDistribuidora3.runtimeconfig.json
+C:\Users\teteu\source\repos\CalculoDistribuidora3\bin\Debug\net6.0\CalculoDistribuidora3.dll
+C:\Users\teteu\source\repos\CalculoDistribuidora3\bin\Debug\net6.0\CalculoDistribuidora3.pdb
+C:\Users\teteu\source\repos\CalculoDistribuidora3\obj\Debug\net6.0\CalculoDistribuidora3.csproj.AssemblyReference.cache
+C:\Users\teteu\source\repos\CalculoDistribuidora3\obj\Debug\net6.0\CalculoDistribuidora3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teteu\source\repos\CalculoDistribuidora3\obj\Debug\net6.0\CalculoDistribuidora3.AssemblyInfoInputs.cache
+C:\Users\teteu\source\repos\CalculoDistribuidora3\obj\Debug\net6.0\CalculoDistribuidora3.AssemblyInfo.cs
+C:\Users\teteu\source\repos\CalculoDistribuidora3\obj\Debug\net6.0\CalculoDistribuidora3.csproj.CoreCompileInputs.cache
+C:\Users\teteu\source\repos\CalculoDistribuidora3\obj\Debug\net6.0\CalculoDistribuidora3.dll
+C:\Users\teteu\source\repos\CalculoDistribuidora3\obj\Debug\net6.0\refint\CalculoDistribuidora3.dll
+C:\Users\teteu\source\repos\CalculoDistribuidora3\obj\Debug\net6.0\CalculoDistribuidora3.pdb
+C:\Users\teteu\source\repos\CalculoDistribuidora3\obj\Debug\net6.0\CalculoDistribuidora3.genruntimeconfig.cache
+C:\Users\teteu\source\repos\CalculoDistribuidora3\obj\Debug\net6.0\ref\CalculoDistribuidora3.dll
+C:\Users\teteu\source\repos\CalculoDistribuidora3\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\teteu\source\repos\CalculoDistribuidora3\obj\Debug\net6.0\CalculoDistribuidora3.csproj.CopyComplete
