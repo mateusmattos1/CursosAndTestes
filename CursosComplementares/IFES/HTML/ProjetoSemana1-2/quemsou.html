@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meu Portifólio :: Quem Sou</title>
+
+  <!-- Item 3-1. Configurações padrões das tabelas, conforme imagem -->
+  <style>
+    table, th, td {
+      border: 1px solid black;
+    }
+
+    table thead th {
+      text-align: center;
+      font-weight: bolder;
+    }
+
+    table tbody th {
+      text-align: left;
+      font-weight: normal;
+    }
+
+    table tfoot th {
+      text-align: left;
+      font-weight: normal;
+    }
+  </style>
+
+  <!-- Item 1. Colocar o header em todas as páginas -->
+  <img src="img/header.svg" alt="imagemcabecalho">
+</head>
+
+<body>
+  <hr>
+  <h3>
+    <a href="index.html">Principal</a> ::
+    <i><a href="quemsou.html">Quem Sou</a></i> ::
+    <a href="projetos.html">Projetos</a> ::
+    <a href="contato.html">Contato</a>
+  </h3>
+  <hr>
+
+  <!-- Item 3-2. Criacao das tabelas. Apesar de nao 
+  precisar, usei o tfoot apenas para demonstrar o uso -->
+  <h2>Habilidades</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Linguagem</th>
+          <th>Experiência</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <th>HTML</th>
+          <th><progress value="5" max="5"></progress></th>
+        </tr>
+        <tr>
+          <th>CSS</th>
+          <th><progress value="4" max="5"></progress></th>
+        </tr>
+        <tr>
+          <th>Javascript</th>
+          <th><progress value="3" max="5"></progress></th>
+        </tr>
+        
+      </tbody>
+
+      <tfoot>
+        <tr>
+          <th>Node.js</th>
+          <th><progress value="3" max="5"></progress></th>
+        </tr>
+      </tfoot>
+
+    </table>
+
+  <h2>Experiência Profissional</h2>
+  <table width="100%">
+    <thead>
+      <tr>
+        <th width="25%">Experiência</th>
+        <th width="15%">&#x1f4c5; Período</th>
+        <th width="60%">Descrição</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr>
+        <th>Desenvolvedor Front-end</th>
+        <th>2019 - Atual</th>
+        <th>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae non nisi, eaque 
+            et tenetur corporis provident iusto ullam maiores ipsam cupiditate.
+        </th>
+      </tr>
+      <tr>
+        <th>Desenvolvedor Web</th>
+        <th>2015 - 2019</th>
+        <th>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, consequatur quas? Doloribus 
+            autem labore, sint fuga maxime culpa vero facere. Laboriosam cumque tenetur sequi ratione.
+        </th>
+      </tr>     
+    </tbody>
+
+    <tfoot>
+      <tr>
+        <th>Designer Web</th>
+        <th>2011 - 2015</th>
+        <th>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim est autem accusamus fugit, maiores omnis. 
+            Commodi sint dolor et sapiente quos, placeat pariatur.
+        </th>
+      </tr>
+    </tfoot>
+  </table>
+
+  <h2>Idiomas</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Idioma</th>
+        <th>Experiência</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr>
+        <th>Português</th>
+        <th><progress value="5" max="5"></progress></th>
+      </tr>
+      <tr>
+        <th>Inglês</th>
+        <th><progress value="4" max="5"></progress></th>
+      </tr>
+    </tbody>
+
+    <tfoot>
+      <tr>
+        <th>Espanhol</th>
+        <th><progress value="3" max="5"></progress></th>
+      </tr>
+    </tfoot>
+  </table>
+
+  <hr>
+  <p>
+    Copyright &copy; 2023
+  </p>
+  <p>
+    <img src="img/ifes.png" alt="ifes" height="96">
+  </p>
+</body>
+
+</html>
