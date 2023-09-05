@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <title>Questão 08</title>
+</head>
+
+<body>
+    <div class="container">
+        <p><a href="index.html">Voltar ao Índice</a></p>
+        <h1 class="display-2">Questão 08</h1>
+        <p class="lead">Usando classes do Bootstrap 5, crie um leiaute de página responsivo com duas regiões com as seguintes características:</p>
+        <ul class="lead">
+            <li>A primeira região deve conter o título "Meu Blog";</li>
+            <li>A segunda região deve conter o título "Meu Artigo" e 3 parágrafos com 100 palavras cada;</li>
+            <li>Até o breakpoint LG, a primeira região deve ficar no topo da página e a segunda região deve vir logo abaixo, sendo que ambas devem ocupar 100% da largura da área de visualização;</li>
+            <li>No breakpoint LG ou superior, a primeira região deve ocupar 3 colunas de largura e a segunda região deve ocupar 9 colunas de largura, de forma que a primeira região fique à esquerda da segunda e que o contêiner fique centralizado na área de visualização.</li>
+        </ul>
+        <p class="lead">* Envolva as regiões com um elemento DIV das classes <i>container-fluid</i> e <i>contaner-lg</i> para cumprir os requisitos de largura da página. A classe <i>conteiner-fluid</i> faz o contêiner ocupar 100% da largura da área de visualização, enquanto a classe <i>container-lg</i> faz o contêiner ocupar a largura do breakpoint LG ou superior quando estiver nessa resolução e ficará centralizado na área de visualização.</p>
+        <hr>
+    </div>
+    <!-- Valor: 1.5 pontos -->
+    <!-- FAZER AQUI -->
+    <div class="container-fluid">
+        <div class="container-lg">
+            <div class="row">
+                <div class="col-lg-3 col-12 text-center text-lg-start bg-light p-4">
+                    <h1>Meu Blog</h1>
+                </div>
+                <div class="col-lg-9 col-12">
+                    <h1 class="display-1">Meu Artigo</h1>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laborum quidem iusto nisi deleniti molestias voluptatibus quia ea sapiente minus consequuntur, incidunt dolore nulla ab accusamus quam explicabo pariatur animi nihil. Voluptatum aspernatur repellat cupiditate a dicta dolores modi consequuntur libero ipsam fugit eveniet amet cum, et, ut incidunt. Dolorum ratione deleniti odit, voluptatibus dolore perferendis fugiat explicabo expedita repudiandae aliquam maiores officia cumque ducimus in aperiam alias laborum dicta recusandae nobis quaerat delectus porro! A adipisci tenetur ab quam nostrum cum eius modi eos sequi, mollitia accusamus, voluptatibus ex sit molestias magnam, veritatis provident inventore sapiente et voluptates amet dignissimos.</p>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque incidunt reprehenderit est nisi, a illo nam expedita fugit nulla laudantium nesciunt laborum quas distinctio molestiae inventore rem. Assumenda corporis nostrum natus temporibus, nesciunt quia! Ipsa a excepturi minima voluptates tenetur voluptatum sit consequatur laborum enim, adipisci amet ipsum delectus deserunt commodi magnam! Modi, obcaecati omnis, facere accusantium sunt quaerat quae commodi voluptates vel at quo ipsa velit iusto quasi a ex, explicabo soluta? Minima accusantium repellat non culpa illo at in natus labore rem. Possimus debitis aut veniam blanditiis a, inventore totam, assumenda officia, repellendus qui animi nihil quod dicta.</p>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis ratione velit quaerat officiis recusandae magnam consectetur voluptate ducimus accusamus fugit veritatis saepe, corporis molestiae? Ratione, nisi nesciunt consequatur molestias eligendi assumenda tempora atque neque. A aliquid eos, consequuntur iure incidunt unde consectetur placeat quae explicabo quidem nulla expedita alias odit earum distinctio doloribus, delectus dignissimos fugit maiores voluptatum officia, perspiciatis modi. Eaque beatae ducimus officia fugit veniam nostrum necessitatibus ut assumenda expedita magnam. Temporibus exercitationem obcaecati, perferendis dolorum ipsum, eum tenetur quis deserunt vero modi consectetur facilis dicta soluta, maiores voluptatum natus nobis minima. Optio, non? Sint sunt debitis architecto?</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
